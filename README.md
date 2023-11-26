@@ -18,14 +18,6 @@
   <a href = "laraalexandralopes919@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lara-lopes-a41571257/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
-<div style="float: left;">
+<div style="float: rigth;">
   <img src="https://i.pinimg.com/originals/58/40/61/584061b0677637d5586dbfb5d322dd14.gif" alt="Computer man">
 </div>
-
-
-
-
-
-
-
-
