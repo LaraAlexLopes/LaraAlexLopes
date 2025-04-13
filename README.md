@@ -1,6 +1,9 @@
 ### Oi!! É a Lara
 - 📖 Estudante do 7º Período de Sistemas de Informação 
-- 🖥️ Estudante de Qualidade de Software
+- 🧪 Atuando como QA (Quality Assurance)
+- 🖥️ Experiência com testes manuais (UI, API e performance)
+- 🤖 Também trabalho com testes automatizados, utilizando Selenium
+- 🔍 Familiaridade com REST APIs, SQL e ferramentas de teste de performance
   
  ## Tecnologias que estou me aperfeiçoando
 <div style="display: inline_block">
@@ -8,6 +11,8 @@
   <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="center" alt="selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" /> 
+  <img align="center" alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> </div>
 </div><br/>
 <div align="left">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaraAlexLopes&show_icons=true&theme=dark&count_private=true">
