@@ -1,7 +1,6 @@
 ### Oi!! É a Lara
-- 📖 Estudante do 4º Período de Sistemas de Informação 
-- 🖥️ Aspirante a Cientista de Dados
-- 📀 Fascinada em UI/UX Design 
+- 📖 Estudante do 7º Período de Sistemas de Informação 
+- 🖥️ Estudante de Qualidade de Software
   
  ## Tecnologias que estou me aperfeiçoando
 <div style="display: inline_block">
