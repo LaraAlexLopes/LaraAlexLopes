@@ -1,5 +1,5 @@
 ### Oi!! É a Lara
-- 📖 Estudante do 7º Período de Sistemas de Informação 
+- 📖 Estudante do 8º Período de Sistemas de Informação 
 - 🧪 Atuando como QA (Quality Assurance)
 - 🖥️ Experiência com testes manuais (UI, API e performance)
 - 🤖 Também trabalho com testes automatizados, utilizando Selenium
